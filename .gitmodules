@@ -1,0 +1,3 @@
+[submodule "flask-db-api"]
+	path = flask-db-api
+	url = https://github.com/brunoxd13/flask-db-api.git
